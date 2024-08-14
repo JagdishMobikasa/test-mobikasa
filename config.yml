@@ -1,0 +1,7 @@
+development:
+  password: shptka_38050956af617addfccde0427213983e
+  theme_id: 136082522295
+  store: test-bearmattress-com.myshopify.com
+  timeout: 1000s
+  ignore_files:
+    - config/settings_data.json

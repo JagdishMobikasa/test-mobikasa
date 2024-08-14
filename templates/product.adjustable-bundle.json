@@ -1,0 +1,131 @@
+{
+  "sections": {
+    "main-product": {
+      "type": "ad-product-details",
+      "settings": {
+        "background_color": "",
+        "text_color": "",
+        "gradient_color": "",
+        "compheading": "",
+        "product-id": "adjustable-foam-pillow",
+        "product-protector": "bear-cub-kids-mattress",
+        "product-sheet": "bear-cub-kids-mattress",
+        "compdesc": "jsa;fdsaldfjsd"
+      }
+    },
+    "main": {
+      "type": "flex-pdp-icon-grid",
+      "blocks": {
+        "text_8BBM7F": {
+          "type": "text",
+          "settings": {
+            "icon-alt": "",
+            "icon-svg": "",
+            "icon-size": "medium",
+            "text": "Easy to Assemble"
+          }
+        },
+        "text_9WUtLc": {
+          "type": "text",
+          "settings": {
+            "icon-alt": "",
+            "icon-svg": "",
+            "icon-size": "medium",
+            "text": "Fast & Free Shipping*"
+          }
+        },
+        "text_atjxnN": {
+          "type": "text",
+          "settings": {
+            "icon-alt": "",
+            "icon-svg": "",
+            "icon-size": "medium",
+            "text": "Compatible with All Mattresses"
+          }
+        },
+        "text_gaqgDH": {
+          "type": "text",
+          "settings": {
+            "icon-alt": "",
+            "icon-svg": "",
+            "icon-size": "medium",
+            "text": "Under Bed Storage"
+          }
+        }
+      },
+      "block_order": [
+        "text_8BBM7F",
+        "text_9WUtLc",
+        "text_atjxnN",
+        "text_gaqgDH"
+      ],
+      "settings": {
+        "toggle": true,
+        "background-color": "",
+        "text-color": "",
+        "highlighted_text": ""
+      }
+    },
+    "simple_grid_elite_hybrid_qXYeHV": {
+      "type": "simple-grid-elite-hybrid",
+      "blocks": {
+        "text_qJjWmH": {
+          "type": "text",
+          "settings": {
+            "title": "Best Hybrid Mattress",
+            "description": "NapLab"
+          }
+        },
+        "text_BcJzj6": {
+          "type": "text",
+          "settings": {
+            "title": "2023 Editor's Pick",
+            "description": "Esquire"
+          }
+        },
+        "text_k3W6mJ": {
+          "type": "text",
+          "settings": {
+            "title": "Best Bedding Awards 2023",
+            "description": "Good Housekeeping"
+          }
+        },
+        "text_EGBkXi": {
+          "type": "text",
+          "settings": {
+            "title": "Best Overall for Side-Sleepers 2023",
+            "description": "Wired Magazine"
+          }
+        },
+        "text_eLVWTi": {
+          "type": "text",
+          "settings": {
+            "title": "Best Mattress for Back Pain",
+            "description": "Sleep Foundation"
+          }
+        }
+      },
+      "block_order": [
+        "text_qJjWmH",
+        "text_BcJzj6",
+        "text_k3W6mJ",
+        "text_EGBkXi",
+        "text_eLVWTi"
+      ],
+      "settings": {
+        "toggle": true,
+        "title": "Award Winning Comfort",
+        "bottom_line": "",
+        "background-color": "#fefefe",
+        "text-color": "#3c3c3f",
+        "padding-top": "pt--small",
+        "padding-bottom": "pb--small"
+      }
+    }
+  },
+  "order": [
+    "main-product",
+    "main",
+    "simple_grid_elite_hybrid_qXYeHV"
+  ]
+}

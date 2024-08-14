@@ -121,11 +121,228 @@
         "padding-top": "pt--small",
         "padding-bottom": "pb--small"
       }
+    },
+    "section_publications_aKG4rf": {
+      "type": "section_publications",
+      "blocks": {
+        "text_U78pg6": {
+          "type": "text",
+          "settings": {
+            "svg_main_image": "head_foot.jpg",
+            "svg_main_width": "100",
+            "svg_main_height": "",
+            "message": "Head \/ Foot Articulation",
+            "svg_main_alt": ""
+          }
+        },
+        "text_7yXnLJ": {
+          "type": "text",
+          "settings": {
+            "svg_main_image": "one-touch_flat_preset.jpg",
+            "svg_main_width": "100",
+            "svg_main_height": "",
+            "message": "One Touch Flat Preset",
+            "svg_main_alt": ""
+          }
+        },
+        "text_g87xy6": {
+          "type": "text",
+          "settings": {
+            "svg_main_image": "zero_g.jpg",
+            "svg_main_width": "",
+            "svg_main_height": "100",
+            "message": "",
+            "svg_main_alt": "Zero G"
+          }
+        },
+        "text_ywKwJx": {
+          "type": "text",
+          "settings": {
+            "svg_main_image": "",
+            "svg_main_width": "",
+            "svg_main_height": "",
+            "message": "",
+            "svg_main_alt": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_U78pg6",
+        "text_7yXnLJ",
+        "text_g87xy6",
+        "text_ywKwJx"
+      ],
+      "settings": {
+        "toggle": true,
+        "title": "",
+        "text-color": "",
+        "background-color": ""
+      }
+    },
+    "pdp_imageblockcontent_GmmNir": {
+      "type": "pdp-imageblockcontent",
+      "settings": {
+        "textarea_measurement_bm": "",
+        "bottom_text": "",
+        "bottom_link": ""
+      }
+    },
+    "why_bear_standard_content_Gg8Kgj": {
+      "type": "why-bear-standard-content",
+      "settings": {
+        "toggle": true,
+        "background-color": "",
+        "background-repeat": "no-repeat",
+        "heading-text-color": "",
+        "text-color": "",
+        "section_header": "Split King Option for Your Own Personal Comfort",
+        "section_rich_text": "Does your partner snore? Looking for some extra relief after a long day? The split king option lets you and your partner move independently from each-other. So you can both be in your ideal and most comfortable position.",
+        "section_link": "",
+        "image_pos_toggle": false,
+        "padding-top": "pt--small",
+        "padding-bottom": "pb--small",
+        "highlighted_text": ""
+      }
+    },
+    "hybrid_product_detail_CTrqri": {
+      "type": "hybrid-product-detail",
+      "blocks": {
+        "text_YTJYU6": {
+          "type": "text",
+          "settings": {
+            "topic_header": "",
+            "topic_header_color": "",
+            "detail_description": "For versatility and convenience, the Adjustable flex bed is designed to seamlessly fit into most modern bed frames. Careful positioning of the motors and linkages ensures they do not disrupt the bed frame's supports or under-bed storage.",
+            "detail_description_text_color": ""
+          }
+        },
+        "text_QtNU8t": {
+          "type": "text",
+          "settings": {
+            "topic_header": "",
+            "topic_header_color": "",
+            "detail_description": "Zero-G Preset raises the head and legs slightly above the heart to promote circulation and relieve lower back pressure.  This position helps evens out the pressure throughout your body – alleviating joints, neck muscles, upper back tension, and pressure on the hips and lower back.",
+            "detail_description_text_color": ""
+          }
+        },
+        "text_iXk4L6": {
+          "type": "text",
+          "settings": {
+            "topic_header": "",
+            "topic_header_color": "",
+            "detail_description": "Adjustable beds have many everyday advantages in terms of quality of sleep, convenience, and overall comfort. <a href=\"https:\/\/www.bearmattress.com\/blogs\/news\/5-reasons-you-need-an-adjustable-base\">Need more reasons on why an adjustable bed is right for you? Read our blog.<\/a>",
+            "detail_description_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_YTJYU6",
+        "text_QtNU8t",
+        "text_iXk4L6"
+      ],
+      "settings": {
+        "background-color": "",
+        "detail_image_alt": "",
+        "section_header": "Sleek & Innovative Design",
+        "text-color": ""
+      }
+    },
+    "yotpo_pdp_gallery_h_nHWJrh": {
+      "type": "yotpo-pdp-gallery-h",
+      "settings": {
+        "title": "Happy Hybrid Owners",
+        "text_color": "#000000",
+        "background_color": "#F7F7F7",
+        "description": "Checkout some honest customer reviews"
+      }
+    },
+    "bear_original_faq_component_xmJGGw": {
+      "type": "bear-original-faq-component",
+      "blocks": {
+        "faqsection_wbpnim": {
+          "type": "faqsection",
+          "settings": {
+            "faq_heading": "How can an Adjustable Bed Base help improve my sleep quality?",
+            "faq_content": "An Adjustable bed base can provide relief and enhance your comfort in various situations, such as snoring, reading or watching TV, addressing chronic pain, accommodating different mattress types, and managing acid reflux. These beds offer a versatile solution to improve your sleep and overall well-being."
+          }
+        },
+        "faqsection_HVXf7N": {
+          "type": "faqsection",
+          "settings": {
+            "faq_heading": "What is Zero Gravity?",
+            "faq_content": "Zero Gravity refers to a neutral body posture that simulates weightlessness. Developed by NASA for astronauts during takeoff, Zero Gravity includes slightly raising both the head and foot of your bed for the most relaxed position possible."
+          }
+        }
+      },
+      "block_order": [
+        "faqsection_wbpnim",
+        "faqsection_HVXf7N"
+      ],
+      "settings": {
+        "accordion_heading_color": "",
+        "data_view_type": "list",
+        "data_view_icon_position": "left"
+      }
+    },
+    "pdp_accordion_h_RpWmQN": {
+      "type": "pdp-accordion-h",
+      "blocks": {
+        "measurementgrid_W7JLaR": {
+          "type": "measurementgrid",
+          "settings": {
+            "title_heading": "Measurements & Dimensions",
+            "title_subheading": "Please Note: King and Split King have a split design and ship in two boxes. They will include instructions for how to assemble and pair the two halves together.2\" slim-profile foundation style base2\" diameter and 12\" 4-in-1 stackable legs for adjusting heightW x L",
+            "size_name_1": "Queen",
+            "block_dimension_1": "59.5\" x 79.5\" x 3\"",
+            "weight_dimension_1": "111 lbs",
+            "size_name_2": "King",
+            "block_dimension_2": "75.5\" x 79.5\" x 3\"",
+            "weight_dimension_2": "141 lbs",
+            "size_name_3": "",
+            "block_dimension_3": "",
+            "weight_dimension_3": "",
+            "size_name_4": "",
+            "block_dimension_4": "",
+            "weight_dimension_4": "",
+            "size_name_5": "",
+            "block_dimension_5": "",
+            "weight_dimension_5": "",
+            "size_name_6": "",
+            "block_dimension_6": "",
+            "weight_dimension_6": "",
+            "size_name_7": "",
+            "block_dimension_7": "",
+            "weight_dimension_7": "",
+            "size_name_8": "",
+            "block_dimension_8": "",
+            "weight_dimension_8": ""
+          }
+        }
+      },
+      "block_order": [
+        "measurementgrid_W7JLaR"
+      ],
+      "settings": {
+        "show_accordion": true,
+        "heading-text-color": "",
+        "text-color": "",
+        "accordion_heading_color": "",
+        "accordion_subheading_color": "",
+        "data_view_type": "list",
+        "data_view_icon_position": "left"
+      }
     }
   },
   "order": [
     "main-product",
     "main",
-    "simple_grid_elite_hybrid_qXYeHV"
+    "simple_grid_elite_hybrid_qXYeHV",
+    "section_publications_aKG4rf",
+    "pdp_imageblockcontent_GmmNir",
+    "why_bear_standard_content_Gg8Kgj",
+    "hybrid_product_detail_CTrqri",
+    "yotpo_pdp_gallery_h_nHWJrh",
+    "bear_original_faq_component_xmJGGw",
+    "pdp_accordion_h_RpWmQN"
   ]
 }

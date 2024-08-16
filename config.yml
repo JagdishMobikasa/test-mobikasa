@@ -4,4 +4,6 @@ development:
   store: test-bearmattress-com.myshopify.com
   timeout: 1000s
   ignore_files:
-    - config/settings_data.json
+  - config/settings_data.json
+  - templates/*.json
+
